@@ -16,4 +16,4 @@ public class Wallpaper
 "@
 Add-Type -TypeDefinition $setwallpapersrc
 
-[Wallpaper]::SetWallpaper("C:\Users\richa\Downloads\wallpaperwindows.png")
+[Wallpaper]::SetWallpaper("wallpaperwindows.png")
